@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46beef2c-c690-491e-82c5-392d296cbfa2" name="Changes" comment="SwapTwoNumbers">
-      <change afterPath="$PROJECT_DIR$/src/CountNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeString.java" afterDir="false" />
+    <list default="true" id="46beef2c-c690-491e-82c5-392d296cbfa2" name="Changes" comment="Program">
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestNumberOf3Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfEvenAndOddNumbersInNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigitsInNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,45 +39,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CountNumberOfDigits.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.LargestNumberOf3Numbers.executor": "Run",
+    "Application.NumberOfEvenAndOddNumbersInNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.SumOfDigitsInNumber.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CountNumberOfDigits">
-    <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountNumberOfDigits" />
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
+    <configuration name="LargestNumberOf3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestNumberOf3Numbers" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeString" />
+    <configuration name="NumberOfEvenAndOddNumbersInNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfEvenAndOddNumbersInNumber" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseNumber" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapTwoNumbers" />
+    <configuration name="SumOfDigitsInNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfDigitsInNumber" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountNumberOfDigits" />
-        <item itemvalue="Application.PalindromeString" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.SwapTwoNumbers" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.LargestNumberOf3Numbers" />
+        <item itemvalue="Application.SumOfDigitsInNumber" />
+        <item itemvalue="Application.NumberOfEvenAndOddNumbersInNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -117,11 +123,20 @@
       <option name="project" value="LOCAL" />
       <updated>1715712869284</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Program">
+      <option name="closed" value="true" />
+      <created>1715730658107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715730658107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SwapTwoNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="SwapTwoNumbers" />
+    <MESSAGE value="Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program" />
   </component>
 </project>
