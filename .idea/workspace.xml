@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46beef2c-c690-491e-82c5-392d296cbfa2" name="Changes" comment="Program">
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAreEqualOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinAndMaxElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintEvenAndOddNumbersFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfElementsInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,52 +39,58 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArraysAreEqualOrNot.executor": "Run",
     "Application.CountNumberOfDigits.executor": "Run",
+    "Application.DuplicatesInArray.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.FindMissingNumberInArray.executor": "Run",
     "Application.LargestNumberOf3Numbers.executor": "Run",
+    "Application.MinAndMaxElementInArray.executor": "Run",
     "Application.NumberOfEvenAndOddNumbersInNumber.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.PrintEvenAndOddNumbersFromArray.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.SumOfDigitsInNumber.executor": "Run",
+    "Application.SumOfelementsInArray.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factorial">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+  <component name="RunManager" selected="Application.DuplicatesInArray">
+    <configuration name="ArraysAreEqualOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAreEqualOrNot" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+    <configuration name="DuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatesInArray" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberOf3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestNumberOf3Numbers" />
+    <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMissingNumberInArray" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+    <configuration name="MinAndMaxElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinAndMaxElementInArray" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigitsInNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfDigitsInNumber" />
+    <configuration name="PrintEvenAndOddNumbersFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintEvenAndOddNumbersFromArray" />
       <module name="InterviewPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.LargestNumberOf3Numbers" />
-        <item itemvalue="Application.SumOfDigitsInNumber" />
+        <item itemvalue="Application.DuplicatesInArray" />
+        <item itemvalue="Application.MinAndMaxElementInArray" />
+        <item itemvalue="Application.FindMissingNumberInArray" />
+        <item itemvalue="Application.ArraysAreEqualOrNot" />
+        <item itemvalue="Application.PrintEvenAndOddNumbersFromArray" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715737771658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Program">
+      <option name="closed" value="true" />
+      <created>1715745295630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715745295630</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
